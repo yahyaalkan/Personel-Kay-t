@@ -1,0 +1,17 @@
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\bin\Debug\net8.0-windows\personel_kayit.exe
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\bin\Debug\net8.0-windows\personel_kayit.deps.json
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\bin\Debug\net8.0-windows\personel_kayit.runtimeconfig.json
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\bin\Debug\net8.0-windows\personel_kayit.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\bin\Debug\net8.0-windows\personel_kayit.pdb
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\obj\Debug\net8.0-windows\personel_kayit.csproj.GenerateResource.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\obj\Debug\net8.0-windows\personel_kayit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\obj\Debug\net8.0-windows\personel_kayit.AssemblyInfoInputs.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\obj\Debug\net8.0-windows\personel_kayit.AssemblyInfo.cs
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\obj\Debug\net8.0-windows\personel_kayit.csproj.CoreCompileInputs.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\obj\Debug\net8.0-windows\personel_kayit.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\obj\Debug\net8.0-windows\refint\personel_kayit.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\obj\Debug\net8.0-windows\personel_kayit.pdb
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\obj\Debug\net8.0-windows\personel_kayit.genruntimeconfig.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\obj\Debug\net8.0-windows\ref\personel_kayit.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\obj\Debug\net8.0-windows\personel_kayit.Properties.Resources.resources
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\personel_kayit\obj\Debug\net8.0-windows\personel_kayit.Form2.resources
